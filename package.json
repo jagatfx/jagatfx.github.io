@@ -1,0 +1,18 @@
+{
+  "name": "myjekyllblog",
+  "version": "0.0.1",
+  "description": "A central location for all things Apple",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jagatfx/jagatfx.github.io.git"
+  },
+  "keywords": [
+    "blog",
+    "jekyll"
+  ],
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-cssmin": "^0.10.0",
+    "grunt-jekyll": "^0.4.2"
+  }
+}
